@@ -2,9 +2,6 @@
 
 > A compact and beginner-friendly PCB project designed using the **NE555 Timer IC** and **BC547 Transistors** to create a sequential LED flasher circuit. Designed in **EasyEDA** and prepared for PCB fabrication.
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/bannu20/LED-flasher-PCB-Design-NE555?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/bannu20/LED-flasher-PCB-Design-NE555?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/bannu20/LED-flasher-PCB-Design-NE555?style=for-the-badge)
 
 ---
 
