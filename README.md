@@ -12,25 +12,25 @@
 
 ## 🔹 Circuit Schematic
 
-![Schematic](Screenshot%202026-06-24%20215127.png)
+![Schematic](scm_led_flasher.png)
 
 ---
 
 ## 🔹 PCB Layout
 
-![PCB Layout](Screenshot%202026-06-24%20215152.png)
+![PCB Layout](layout.png)
 
 ---
 
 ## 🔹 3D Top View
 
-![3D Top](Screenshot%202026-06-24%20215220.png)
+![3D Top](3D_top.png)
 
 ---
 
 ## 🔹 3D Bottom View
 
-![3D Bottom](Screenshot%202026-06-24%20215800.png)
+![3D Bottom](3D_bottom.png)
 
 ---
 
